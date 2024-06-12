@@ -2,9 +2,20 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
-## Setup
-
+## Dependencies
 Make sure to install the dependencies:
+
+```bash
+"bootstrap-vue-3": "^0.3.12"
+"bootstrap-vue-next": "^0.21.2"
+"nuxt": "^3.11.2"
+"usebootstrap": "^3.5.7"
+"vue": "^3.4.27"
+"vue-router": "^4.3.2"
+"vuex": "^4.1.0"
+```
+
+## Setup
 
 ```bash
 # npm
